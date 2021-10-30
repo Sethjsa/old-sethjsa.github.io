@@ -27,3 +27,5 @@ Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://tw
 - You can see what I'm listening to [here](https://last.fm/user/SetheryJ).
 - I speak bits and pieces of French, German, Spanish, Swedish and Faroese.
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/).
+- Recent trips include: [The Tour du Mont Blanc](http://www.autourdumontblanc.com/en/); [The Corsica GR20](http://www.le-gr20.fr/en/). 
+- Future trips include: [The Red Sea Mountain Trail](https://www.redseamountaintrail.org/); [The Arctic Circle Trail](https://visitgreenland.com/things-to-do/arctic-circle-trail/).
