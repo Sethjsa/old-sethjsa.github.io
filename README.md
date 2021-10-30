@@ -22,4 +22,4 @@ Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://tw
 
 ## Etc.
 
-You can see what I'm listening to [here](https://last.fm/SetheryJ).
+You can see what I'm listening to [here](https://last.fm/user/SetheryJ).
