@@ -12,4 +12,4 @@ For my Master's dissertation, I supervised by [Miloš Stanojević](stanojevic.gi
 
 ## Contact
 
-Get in touch with me via [email](mailto:seth@manx.net) or [Twitter](twitter.com/sethjsa)
+Get in touch with me via [Email](mailto:seth@manx.net) or [Twitter](twitter.com/sethjsa).
