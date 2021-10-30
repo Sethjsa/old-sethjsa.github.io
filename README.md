@@ -16,8 +16,6 @@ You'll also see this on my [Google Scholar profile](https://scholar.google.com/c
 
 My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/files/7447432/SJSA_CV.10.pdf).
 
-## 
-
 ## Contact
 
 Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa), [LinkedIn](https://linkedin.com/in/sethjsa), or post.
@@ -25,4 +23,5 @@ Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://tw
 ## Etc.
 
 - You can see what I'm listening to [here](https://last.fm/user/SetheryJ).
-- I speak bits and pieces of French, German, Spanish, Swedish and Faroese. 
+- I speak bits and pieces of French, German, Spanish, Swedish and Faroese.
+- I volunteer at the [International Linguistics Olympiad](https://ioling.org/).
