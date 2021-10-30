@@ -9,3 +9,7 @@ For my Master's dissertation, I supervised by [Miloš Stanojević](stanojevic.gi
 
 - Aycock, S. 2020.  A Third-Factor Account of Locality:  Explaining impenetrability and intervention effects with minimal search. _Cambridge Occasional Papers in Linguistics_ 12. 1-30.  [(Available here)](https://www.mmll.cam.ac.uk/cambridge-occasional-papers-linguistics/latest-volume).  [Published Undergraduate Dissertation]
 - Hughes, Aycock, Caines, Buttery & Hutchings.  2020.  Detecting Trending Terms in Cybersecurity Forum Discussions. _In Proc. EMNLP 6th Workshop on Noisy User-Generated Text_, pp.  107-115.  [(Available here)](https://noisy-text.github.io/2020/pdf/2020.d200-1.15.pdf).
+
+## Contact
+
+Get in touch with me via [email](mailto:seth@manx.net) or [Twitter](twitter.com/sethjsa)
