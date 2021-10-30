@@ -15,7 +15,7 @@ You'll also see this on my [Google Scholar profile](https://scholar.google.com/c
 
 ## CV
 
-My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/files/7447432/SJSA_CV.10.pdf).
+My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/blob/master/SJSA_CV%20(10).pdf).
 
 ## Contact
 
