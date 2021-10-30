@@ -20,3 +20,6 @@ My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/file
 
 Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa) or [LinkedIn](https://linkedin.com/in/sethjsa).
 
+## Etc.
+
+You can see what I'm listening to [here](https://last.fm/SetheryJ).
