@@ -18,4 +18,4 @@ My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io).
 
 ## Contact
 
-Get in touch with me via [Email](mailto:seth%40manx.net) or [Twitter](twitter.com/sethjsa).
+Get in touch with me via [Email](mailto:seth%40manx.net), [Twitter](twitter.com/sethjsa) or [LinkedIn](linkedin.com/sethjsa).
