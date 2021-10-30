@@ -2,7 +2,7 @@
 
 ## About
 
-I am an NLP Researcher, with a Master's from Edinburgh University in Speech & Language Processing. My primary interest is incorporating linguistic knowledge into NLP models.
+I am an NLP and Computational Linguistics Researcher, with a Master's from Edinburgh University in Speech & Language Processing. My primary interest is incorporating linguistic knowledge into NLP models, Machine Translation, and syntax (Minimalist Grammar and CCG).
 For my Master's dissertation, I supervised by [Miloš Stanojević](stanojevic.github.io) and [Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/).
 
 ## Publications
@@ -14,12 +14,13 @@ For my Master's dissertation, I supervised by [Miloš Stanojević](stanojevic.gi
 
 My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/files/7447432/SJSA_CV.10.pdf).
 
-##
+## 
 
 ## Contact
 
-Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa) or [LinkedIn](https://linkedin.com/in/sethjsa).
+Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa), [LinkedIn](https://linkedin.com/in/sethjsa), or [Phone](tel:+447940327345).
 
 ## Etc.
 
-You can see what I'm listening to [here](https://last.fm/user/SetheryJ).
+- You can see what I'm listening to [here](https://last.fm/user/SetheryJ).
+- I speak bits and pieces of French, German, Spanish, Swedish and Faroese. 
