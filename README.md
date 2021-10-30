@@ -12,8 +12,10 @@ For my Master's dissertation, I supervised by [Miloš Stanojević](stanojevic.gi
 
 ## CV
 
-My full CV is available [here]().
+My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io).
+
+##
 
 ## Contact
 
-Get in touch with me via [Email](mailto:seth@manx.net) or [Twitter](twitter.com/sethjsa).
+Get in touch with me via [Email](mailto:seth%40manx.net) or [Twitter](twitter.com/sethjsa).
