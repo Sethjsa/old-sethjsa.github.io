@@ -18,7 +18,7 @@ My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/file
 
 ## Contact
 
-Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa), [LinkedIn](https://linkedin.com/in/sethjsa), or [Phone](tel:+447940327345).
+Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa), [LinkedIn](https://linkedin.com/in/sethjsa), or [Phone](tel: +447940327345).
 
 ## Etc.
 
