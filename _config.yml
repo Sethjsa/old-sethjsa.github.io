@@ -7,7 +7,10 @@
 
 # Site settings
 title: Seth J. S. Aycock
-description: NLP & Computational Linguistics Researcher
+description: "NLP & Computational Linguistics Researcher
+[Email](mailto:seth%40manx%2enet)
+[Twitter](https://twitter.com/sethjsa)
+[LinkedIn](https://linkedin.com/in/sethjsa)"
 logo: /profile.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
