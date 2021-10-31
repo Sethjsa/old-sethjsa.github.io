@@ -22,10 +22,6 @@ See the full list of Publications and Talks [here](./publications.md).
 
 My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/blob/master/SJSA_CV%20(10).pdf).
 
-## Contact
-
-Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa), [LinkedIn](https://linkedin.com/in/sethjsa), or post.
-
 ## Etc.
 
 - You can see what I'm listening to [here](https://last.fm/user/SetheryJ).
@@ -33,3 +29,8 @@ Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://tw
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/).
 - Recent trips include: [The Tour du Mont Blanc](http://www.autourdumontblanc.com/en/); [The Corsica GR20](http://www.le-gr20.fr/en/). 
 - Future trips include: [The Arctic Circle Trail](https://visitgreenland.com/things-to-do/arctic-circle-trail/).
+
+## Contact
+
+Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa), [LinkedIn](https://linkedin.com/in/sethjsa), or post.
+
