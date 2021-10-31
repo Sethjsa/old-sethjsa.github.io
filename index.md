@@ -8,7 +8,7 @@ I am an NLP and Computational Linguistics Researcher, with a Master's degree fro
 - Machine Translation (especially low-resource MT)
 - Theoretical syntax (Minimalist Grammar and CCG)
 
-For my [Master's dissertation](https://github.com/Sethjsa/Sethjsa.github.io/blob/master/MSc%20SLP%20Dissertation%20-%20B178385_7979.pdf), I was supervised by [Miloš Stanojević](https://stanojevic.github.io) and [Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/).
+For my [Master's dissertation](https://github.com/Sethjsa/Sethjsa.github.io/blob/master/MSc%20SLP%20Dissertation%20-%20B178385_7979.pdf), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io) and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/). For my [Undergraduate Dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf), I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts).
 
 ## Recent Publications
 
