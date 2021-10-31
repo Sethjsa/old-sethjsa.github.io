@@ -2,7 +2,12 @@
 
 ## About
 
-I am an NLP and Computational Linguistics Researcher, with a Master's degree from Edinburgh University in Speech & Language Processing. My interests include incorporating linguistic knowledge into NLP models, Machine Translation (especially low-resource MT), and theoretical syntax (Minimalist Grammar and CCG).
+I am an NLP and Computational Linguistics Researcher, with a Master's degree from Edinburgh University in Speech & Language Processing. My academic interests, among others, include:
+
+- Incorporating linguistic knowledge into NLP models
+- Machine Translation (especially low-resource MT)
+- Theoretical syntax (Minimalist Grammar and CCG)
+
 For my [Master's dissertation](https://github.com/Sethjsa/Sethjsa.github.io/blob/master/MSc%20SLP%20Dissertation%20-%20B178385_7979.pdf), I supervised by [Miloš Stanojević](https://stanojevic.github.io) and [Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/).
 
 ## Publications
