@@ -1,6 +1,6 @@
 # Seth J. S. Aycock
 
-## About
+## About me
 
 I am an NLP and Computational Linguistics Researcher, with a Master's degree from Edinburgh University in Speech & Language Processing. My academic interests, among others, include:
 
