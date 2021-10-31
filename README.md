@@ -23,7 +23,6 @@ Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://tw
 
 ## Etc.
 
-
 - You can see what I'm listening to [here](https://last.fm/user/SetheryJ).
 - I speak and understand bits and pieces of French, German, Spanish, Swedish and Faroese.
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/).
