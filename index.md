@@ -20,7 +20,7 @@ See the full list of Publications and Talks [here](./publications.md).
 
 ## CV
 
-My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/blob/master/SJSA_CV%20(11).pdf).
+My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/files/7449562/SJSA_CV.11.pdf).
 
 ## Etc.
 
@@ -28,6 +28,7 @@ My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/blob
 - I speak and understand bits and pieces of French, German, Spanish, Swedish and Faroese.
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/).
 - Recent trips include: [The Tour du Mont Blanc](http://www.autourdumontblanc.com/en/); [The Corsica GR20](http://www.le-gr20.fr/en/). 
+
 - Future trips include: [The Arctic Circle Trail](https://visitgreenland.com/things-to-do/arctic-circle-trail/).
 
 ## Contact
