@@ -1,6 +1,6 @@
 ## About
 
-I am an NLP and Computational Linguistics Researcher, with a Master's degree from Edinburgh University in Speech & Language Processing. My academic interests, among others, include:
+I am an NLP and Computational Linguistics Researcher, with a Master's degree from Edinburgh University in Speech & Language Processing. My research interests, among others, include:
 
 - Incorporating linguistic knowledge into NLP models
 - Machine Translation (especially low-resource MT)
