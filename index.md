@@ -22,14 +22,16 @@ See the full list of Publications and Talks [here](./publications.md).
 
 My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/files/7449562/SJSA_CV.11.pdf){:target="_blank"}.
 
+* * *
+
 ## Miscellaneous
 
 - You can see what I'm listening to [here](https://last.fm/user/SetheryJ){:target="_blank"}.
 - I speak and understand bits and pieces of French, German, Spanish, Swedish, and Faroese.
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/){:target="_blank"}.
 - I am a hiker. 
-  -- Recent trips include: [The Tour du Mont Blanc](http://www.autourdumontblanc.com/en/){:target="_blank"}; [The Corsica GR20](http://www.le-gr20.fr/en/){:target="_blank"}.
-  -- Future trips include: [The Arctic Circle Trail](https://visitgreenland.com/things-to-do/arctic-circle-trail/){:target="_blank"}.
+  - Recent trips include: [The Tour du Mont Blanc](http://www.autourdumontblanc.com/en/){:target="_blank"}; [The Corsica GR20](http://www.le-gr20.fr/en/){:target="_blank"}.
+  - Future trips include: [The Arctic Circle Trail](https://visitgreenland.com/things-to-do/arctic-circle-trail/){:target="_blank"}.
 
 ## Contact
 
