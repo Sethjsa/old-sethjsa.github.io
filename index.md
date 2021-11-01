@@ -24,7 +24,7 @@ See the full list of Publications and Talks [here](./publications.md).
 
 ## CV
 
-My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/files/7449562/SJSA_CV.11.pdf){:target="_blank"}.
+My full CV is available [here](https://github.com/Sethjsa/sethjsa.github.io/files/7455742/SJSA_CV_website.pdf){:target="_blank"}.
 
 * * *
 
@@ -35,6 +35,7 @@ My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/file
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/){:target="_blank"}.
 - I am a hiker. 
   - Recent trips include: The Tour du Mont Blanc; The Corsica GR20.
+
   - Future trips include: The Arctic Circle Trail.
 
 * * *
@@ -42,4 +43,3 @@ My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/file
 ## Contact
 
 Get in touch with me via [Email](mailto:seth%40manx%2enet), [Twitter](https://twitter.com/sethjsa){:target="_blank"}, or [LinkedIn](https://linkedin.com/in/sethjsa){:target="_blank"}.
-
