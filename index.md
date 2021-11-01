@@ -35,7 +35,6 @@ My full CV is available [here](https://sethjsa.github.io/SJSA_CV_website.pdf){:t
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/){:target="_blank"}.
 - I am a hiker. 
   - Recent trips include: The Tour du Mont Blanc; The Corsica GR20.
-
   - Future trips include: The Arctic Circle Trail.
 
 * * *
