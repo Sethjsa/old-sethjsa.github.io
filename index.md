@@ -8,6 +8,8 @@ I am an NLP and Computational Linguistics Researcher, with a Master's degree fro
 
 For my Master's dissertation (available upon request), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io){:target="_blank"} and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/){:target="_blank"}. For my [Undergraduate dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}, I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts){:target="_blank"}.
 
+* * *
+
 ## Recent Publications
 
 - Aycock, S. 2020.  A Third-Factor Account of Locality:  Explaining impenetrability and intervention effects with minimal search. _Cambridge Occasional Papers in Linguistics_ 12. 1-30.  ([Available here](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}).  [Published Undergraduate Dissertation]
@@ -17,6 +19,8 @@ For my Master's dissertation (available upon request), I was supervised by [Dr. 
 You'll also see this on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R9VK010AAAAJ){:target="_blank"}.
 
 See the full list of Publications and Talks [here](./publications.md).
+
+* * *
 
 ## CV
 
@@ -32,6 +36,8 @@ My full CV is available [here](https://github.com/Sethjsa/Sethjsa.github.io/file
 - I am a hiker. 
   - Recent trips include: [The Tour du Mont Blanc](http://www.autourdumontblanc.com/en/){:target="_blank"}; [The Corsica GR20](http://www.le-gr20.fr/en/){:target="_blank"}.
   - Future trips include: [The Arctic Circle Trail](https://visitgreenland.com/things-to-do/arctic-circle-trail/){:target="_blank"}.
+
+* * *
 
 ## Contact
 
