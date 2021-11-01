@@ -24,7 +24,7 @@ See the full list of Publications and Talks [here](./publications.md).
 
 ## CV
 
-My full CV is available [here](sethjsa.github.io/SJSA_CV_website.pdf){:target="_blank"}.
+My full CV is available [here](https://sethjsa.github.io/SJSA_CV_website.pdf){:target="_blank"}.
 
 * * *
 
