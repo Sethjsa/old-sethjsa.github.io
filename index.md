@@ -14,7 +14,7 @@ For my Master's dissertation (available upon request), I was supervised by [Dr. 
 
 - Aycock, S. 2020.  A Third-Factor Account of Locality:  Explaining impenetrability and intervention effects with minimal search. _Cambridge Occasional Papers in Linguistics_ 12. 1-30.  ([Available here](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}).  [Published Undergraduate Dissertation]
 - Hughes, J., Aycock, S., Caines, A., Buttery, P., & Hutchings, A.  2020.  Detecting Trending Terms in Cybersecurity Forum Discussions. _In Proc. EMNLP 6th Workshop on Noisy User-Generated Text_, pp.  107-115.  ([Available here](https://noisy-text.github.io/2020/pdf/2020.d200-1.15.pdf){:target="_blank"}).
-- Aycock, S., Stanojević, M., & Steedman, M. In preparation. Target-side CCG Supertag Prediction Improves Machine Translation. (Intending to submit to EAMT 2022).
+- Aycock, S., Stanojević, M., & Steedman, M. _In preparation_. Target-side CCG Supertag Prediction Improves Machine Translation. (Intending to submit to EAMT 2022).
 
 You'll also see this on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R9VK010AAAAJ){:target="_blank"}.
 
