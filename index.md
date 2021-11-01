@@ -34,7 +34,7 @@ My full CV is available [here](https://sethjsa.github.io/SJSA_CV_website.pdf){:t
 - I speak and understand bits and pieces of French, German, Spanish, Swedish, and Faroese.
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/){:target="_blank"}.
 - I am a hiker. 
-  - Recent trips include: The Tour du Mont Blanc; The Corsica GR20.
+  - Recent trips include: The Tour du Mont Blanc; The GR20 Corsica.
   - Future trips include: The Arctic Circle Trail.
 
 * * *
