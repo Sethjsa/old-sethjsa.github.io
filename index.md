@@ -36,6 +36,7 @@ My full CV is available [here](https://sethjsa.github.io/SJSA_CV_website.pdf){:t
 - I am a hiker. 
   - Recent trips include: The Tour du Mont Blanc; The GR20 in Corsica.
   - Future trips include: The Arctic Circle Trail.
+- I take photos on film (see profile picture).
 
 * * *
 
