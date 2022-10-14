@@ -6,7 +6,7 @@ I am an NLP Researcher, with a Master's degree from Edinburgh University in Spee
 - Machine Translation (especially low-resource MT)
 - Theoretical syntax (Minimalist Grammar and CCG)
 
-For my Master's dissertation (available upon request), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io){:target="_blank"} and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/){:target="_blank"}. For my [Undergraduate dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}, I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts){:target="_blank"}.
+For my Master's dissertation (available [here](https://sethjsa.github.io/SJSA_MSc_Dissertation.pdf){:target="_blank"}), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io){:target="_blank"} and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/){:target="_blank"}. For my [Undergraduate dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}, I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts){:target="_blank"}.
 
 * * *
 
