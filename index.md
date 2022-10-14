@@ -1,10 +1,10 @@
 ## About
 
-I am an NLP Researcher, with a Master's degree from Edinburgh University in Speech & Language Processing. My research interests, among others, include:
+I am an NLP Researcher, with a Master's degree in Speech & Language Processing from Edinburgh University. My research interests include:
 
-- Incorporating linguistic knowledge into NLP models
-- Machine Translation (especially low-resource MT)
-- Theoretical syntax (Minimalist Grammar and CCG)
+- Sample efficiency via inductive linguistic biases
+- Machine Translation for low-resource languages
+- Theoretical syntax (incl. Minimalist Grammar and CCG)
 
 For my Master's dissertation (available [here](https://sethjsa.github.io/SJSA_MSc_Dissertation.pdf){:target="_blank"}), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io){:target="_blank"} and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/){:target="_blank"}. For my [Undergraduate dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}, I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts){:target="_blank"}.
 
@@ -14,7 +14,6 @@ For my Master's dissertation (available [here](https://sethjsa.github.io/SJSA_MS
 
 - Aycock, S. 2020.  A Third-Factor Account of Locality:  Explaining impenetrability and intervention effects with minimal search. _Cambridge Occasional Papers in Linguistics_ 12. 1-30.  ([Available here](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}).  [Published Undergraduate Dissertation]
 - Hughes, J., Aycock, S., Caines, A., Buttery, P., & Hutchings, A.  2020.  Detecting Trending Terms in Cybersecurity Forum Discussions. _In Proc. EMNLP 6th Workshop on Noisy User-Generated Text_, pp.  107-115.  ([Available here](https://noisy-text.github.io/2020/pdf/2020.d200-1.15.pdf){:target="_blank"}).
-- Aycock, S., Stanojević, M., & Steedman, M. _In preparation_. Target-side CCG Supertag Prediction Improves Machine Translation. (Intending to submit to EAMT 2022).
 
 You'll also see this on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R9VK010AAAAJ){:target="_blank"}.
 
