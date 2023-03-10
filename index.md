@@ -1,10 +1,10 @@
 ## About
 
-I am an NLP Researcher, with a Master's degree in Speech & Language Processing from Edinburgh University. My research interests include:
+I am an NLP Research Assistant at City University London, with a Master's degree from Edinburgh University in Speech & Language Processing. I was previously an NLP Lead research at the UK Government. My academic interests, among others, include:
 
-- Sample efficiency via inductive linguistic biases
-- Machine Translation for low-resource languages
-- Theoretical syntax (incl. Minimalist Grammar and CCG)
+- Training efficiency and sample efficiency of NLP models
+- Low-resource NLP including language modelling and translation
+- Theoretical syntax (Minimalist Grammar and CCG)
 
 For my Master's dissertation (available [here](https://sethjsa.github.io/SJSA_MSc_Dissertation.pdf){:target="_blank"}), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io){:target="_blank"} and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/){:target="_blank"}. For my [Undergraduate dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}, I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts){:target="_blank"}.
 
