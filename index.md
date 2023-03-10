@@ -1,6 +1,6 @@
 ## About
 
-I am an NLP Research Assistant at City University London, with a Master's degree from Edinburgh University in Speech & Language Processing. I was previously an NLP Lead research at the UK Government. My academic interests, among others, include:
+I am an NLP Research Assistant at City University London, with a Master's degree from Edinburgh University in Speech & Language Processing. I was previously a lead researcher in NLP at the UK Government. My academic interests, among others, include:
 
 - Training efficiency and sample efficiency of NLP models
 - Low-resource NLP including language modelling and translation
