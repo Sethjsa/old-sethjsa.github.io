@@ -1,9 +1,9 @@
 ## About
 
-I am an NLP Research Assistant at City University London, with a Master's degree from Edinburgh University in Speech & Language Processing. I was previously a lead researcher in NLP at the UK Government. My academic interests, among others, include:
+I am a Research Engineer in NLP at the ALMAnaCH lab at Inria, Paris, focusing on domain adaptation for low-resource translation. I hold a Master's degree from Edinburgh University in Speech & Language Processing, and I was previously a researcher in NLP at City University of London, and the UK Government. My academic interests, among others, include:
 
-- Training efficiency and sample efficiency of NLP models
 - Low-resource NLP including language modelling and translation
+- Training efficiency and sample efficiency of (small) NLP models
 - Theoretical syntax (Minimalist Grammar and CCG)
 
 For my Master's dissertation (available [here](https://sethjsa.github.io/SJSA_MSc_Dissertation.pdf){:target="_blank"}), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io){:target="_blank"} and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/){:target="_blank"}. For my [Undergraduate dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}, I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts){:target="_blank"}.
@@ -29,7 +29,7 @@ My full CV is available on request.
 ## Miscellaneous
 
 - You can see what I'm listening to [here](https://last.fm/user/SetheryJ){:target="_blank"}.
-- I speak and understand bits and pieces of French, German, Spanish, Swedish, and Faroese.
+- I speak and understand bits and pieces of French, German, Spanish, Swedish, and Faroese. I'm now learning Dutch.
 - I volunteer at the [International Linguistics Olympiad](https://ioling.org/){:target="_blank"}.
 - I take photos on film (see profile picture).
 - I am a hiker. 
