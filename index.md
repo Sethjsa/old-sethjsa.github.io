@@ -1,10 +1,10 @@
 ## About
 
-I am a Research Engineer in NLP at the ALMAnaCH lab at Inria, Paris, focusing on domain adaptation for low-resource translation. I hold a Master's degree from Edinburgh University in Speech & Language Processing, and I was previously a researcher in NLP at City University of London, and the UK Government. My academic interests, among others, include:
+I am a PhD Candidate in low-resource translation and simplification at the University of Amsterdam (UvA), affiliated with the ILLC and the IvI. I am supervised by Khalil Sima'an and Christof Monz. Previously, I was a Research Engineer in NLP at the ALMAnaCH lab at Inria, Paris, focusing on domain adaptation for low-resource translation, and before this I worked as an NLP researcher at City University, London, and the UK Government. I hold a Master's degree from Edinburgh University in Speech & Language Processing. My academic interests, among others, include:
 
-- Low-resource NLP including language modelling and translation
-- Training efficiency and sample efficiency of (small) NLP models
+- Low-resource NLP, specifically machine translation and automatic text simplification
 - Theoretical syntax (Minimalist Grammar and CCG)
+- Transfer learning and sample efficiency
 
 For my Master's dissertation (available [here](https://sethjsa.github.io/SJSA_MSc_Dissertation.pdf){:target="_blank"}), I was supervised by [Dr. Miloš Stanojević](https://stanojevic.github.io){:target="_blank"} and [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/){:target="_blank"}. For my [Undergraduate dissertation](https://www.mmll.cam.ac.uk/files/copil_12_1_aycock.pdf){:target="_blank"}, I was supervised by [Prof. Ian Roberts](https://www.dow.cam.ac.uk/people/professor-ian-roberts){:target="_blank"}.
 
